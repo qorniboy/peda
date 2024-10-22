@@ -1,7 +1,11 @@
 peda
 ====
 
-PEDA - Python Exploit Development Assistance for GDB
+PEDA - Python Exploit Development Assistance for GDB.
+
+Fix for newer Python version:
+ - clone repo
+ - install six manually using pip or apt
 
 ## Key Features:
 * Enhance the display of gdb: colorize and display disassembly codes, registers, memory information during debugging.
